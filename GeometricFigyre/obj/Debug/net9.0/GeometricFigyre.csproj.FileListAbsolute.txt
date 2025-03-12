@@ -1,0 +1,14 @@
+/Users/ilyaprokofev/RiderProjects/GeometricFigyre/GeometricFigyre/bin/Debug/net9.0/GeometricFigyre
+/Users/ilyaprokofev/RiderProjects/GeometricFigyre/GeometricFigyre/bin/Debug/net9.0/GeometricFigyre.deps.json
+/Users/ilyaprokofev/RiderProjects/GeometricFigyre/GeometricFigyre/bin/Debug/net9.0/GeometricFigyre.runtimeconfig.json
+/Users/ilyaprokofev/RiderProjects/GeometricFigyre/GeometricFigyre/bin/Debug/net9.0/GeometricFigyre.dll
+/Users/ilyaprokofev/RiderProjects/GeometricFigyre/GeometricFigyre/bin/Debug/net9.0/GeometricFigyre.pdb
+/Users/ilyaprokofev/RiderProjects/GeometricFigyre/GeometricFigyre/obj/Debug/net9.0/GeometricFigyre.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ilyaprokofev/RiderProjects/GeometricFigyre/GeometricFigyre/obj/Debug/net9.0/GeometricFigyre.AssemblyInfoInputs.cache
+/Users/ilyaprokofev/RiderProjects/GeometricFigyre/GeometricFigyre/obj/Debug/net9.0/GeometricFigyre.AssemblyInfo.cs
+/Users/ilyaprokofev/RiderProjects/GeometricFigyre/GeometricFigyre/obj/Debug/net9.0/GeometricFigyre.csproj.CoreCompileInputs.cache
+/Users/ilyaprokofev/RiderProjects/GeometricFigyre/GeometricFigyre/obj/Debug/net9.0/GeometricFigyre.dll
+/Users/ilyaprokofev/RiderProjects/GeometricFigyre/GeometricFigyre/obj/Debug/net9.0/refint/GeometricFigyre.dll
+/Users/ilyaprokofev/RiderProjects/GeometricFigyre/GeometricFigyre/obj/Debug/net9.0/GeometricFigyre.pdb
+/Users/ilyaprokofev/RiderProjects/GeometricFigyre/GeometricFigyre/obj/Debug/net9.0/GeometricFigyre.genruntimeconfig.cache
+/Users/ilyaprokofev/RiderProjects/GeometricFigyre/GeometricFigyre/obj/Debug/net9.0/ref/GeometricFigyre.dll
